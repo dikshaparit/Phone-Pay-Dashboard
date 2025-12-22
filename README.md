@@ -54,6 +54,21 @@ The following DAX measures were created to support dashboard calculations:
   (COUNT(Transactions[TransactionID]),Transactions[Status] = "Success"),
       COUNT(Transactions[TransactionID])
   )
+
+## 📸 Dashboard Screenshots
+
+### Menu
+![Menu](screenshots/1.Menu.png)
+
+### Transactions
+![Transactions](screenshots/2.Transaction.png)
+
+### Users
+![Users](screenshots/3.User.png)
+
+### Tooltip
+![Tooltip](screenshots/4.Tooltip.png)
+
 ## 👤 Created By
 **Diksha Parit**  
 Aspiring Data Analyst | Power BI Developer
