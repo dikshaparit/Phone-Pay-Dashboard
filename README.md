@@ -67,7 +67,7 @@ The following DAX measures were created to support dashboard calculations:
 ![User Page](Screenshots/3.User.png)
 
 ### 4️⃣ Tooltip Page
-![Tooltip Page](4.Tooltip.png)
+![Tooltip Page](Screenshots/4.Tooltip.png)
 
 ## 👤 Created By
 **Diksha Parit**  
