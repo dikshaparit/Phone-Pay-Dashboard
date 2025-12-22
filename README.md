@@ -58,7 +58,7 @@ The following DAX measures were created to support dashboard calculations:
 ## 📸 Dashboard Screenshots
 
 ### 1.Menu
-![1.MENU](screenshots/1.MENU.png)
+![Menu Page](screenshots/1.Menu.png)
 
 ### Transactions
 ![Transactions](screenshots/2.Transaction.png)
