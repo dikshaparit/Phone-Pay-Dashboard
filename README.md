@@ -55,19 +55,19 @@ The following DAX measures were created to support dashboard calculations:
       COUNT(Transactions[TransactionID])
   )
 
-## 📸 Dashboard Screenshots
+## 📸 Report Screenshots
 
-### 1.Menu
-![Menu Page](screenshots/1.Menu.png)
+### 1️⃣ Menu Page
+![Menu Page](1.Menu.png)
 
-### Transactions
-![Transactions](screenshots/2.Transaction.png)
+### 2️⃣ Transaction Page
+![Transaction Page](2.Transaction.png)
 
-### Users
-![Users](screenshots/3.User.png)
+### 3️⃣ User Page
+![User Page](3.User.png)
 
-### Tooltip
-![Tooltip](screenshots/4.Tooltip.png)
+### 4️⃣ Tooltip Page
+![Tooltip Page](4.Tooltip.png)
 
 ## 👤 Created By
 **Diksha Parit**  
