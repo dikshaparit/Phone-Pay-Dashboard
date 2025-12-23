@@ -39,16 +39,16 @@ The objective of this project is to analyze transaction data to:
 The following DAX measures were created to support dashboard calculations:
 
 ## DAX
-- Total Transactions:
+  # Total Transactions:
   Total Transactions = COUNT(Transactions[TransactionID])
   
-- Total Transaction Amount:
+  # Total Transaction Amount:
   Total Amount = SUM(Transactions[Amount])
   
-- Active Users:
+  # Active Users:
   Active Users = CALCULATE(DISTINCTCOUNT(Users[UserID]),Users[IsActive] = "Yes")
   
-- Success Rate:
+  # Success Rate:
   Success Rate =
   DIVIDE(CALCULATE
   (COUNT(Transactions[TransactionID]),Transactions[Status] = "Success"),
@@ -65,9 +65,6 @@ The following DAX measures were created to support dashboard calculations:
 
 ### 3️⃣ User Page
 ![User Page](Screenshots/3.User.png)
-
-### 4️⃣ Tooltip Page
-![Tooltip Page](Screenshots/4.Tooltip.png)
 
 ## 👤 Created By
 **Diksha Parit**  
